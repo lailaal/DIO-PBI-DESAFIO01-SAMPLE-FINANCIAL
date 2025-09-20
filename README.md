@@ -20,6 +20,8 @@ Renomeio os visuais com títulos claros e contextuais.
 
 Ajuste nos campos usados como dicas de ferramentas (tooltips).
 
+Adição de rótulos de dados em gráficos
+
 📂 Organização do Repositório
 
 relatorio.pbix → arquivo do projeto Power BI.
